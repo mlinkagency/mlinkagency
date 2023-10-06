@@ -33,7 +33,7 @@ function Footer() {
             <TwitterLogo  size={32} />
           </Link>
           <Link
-            href="#"
+            href="https://www.instagram.com/mlinkagency/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-pink-500 hover:text-pink-700"
